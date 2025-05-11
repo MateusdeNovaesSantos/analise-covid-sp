@@ -68,7 +68,7 @@ Até o momento, a análise inicial dos dados limpos de COVID-19 em São Paulo pe
 
 ## Como Utilizar
 
-1.  **Clone o repositório:** `git clone https://github.com/seu_usuario/seu_repositorio` (substitua pelo link real do seu repositório).
+1.  **Clone o repositório:** `git clone https://github.com/MateusdeNovaesSantos/analise-covid-sp.git`.
 2.  **Certifique-se de ter o arquivo de dados:** O arquivo `covid_data.csv` deve estar presente na pasta `data/`.
 3.  **Instale as bibliotecas necessárias:** Se você ainda não as tiver, execute: `pip install pandas sqlite3` no seu terminal.
 4.  **Execute os notebooks em ordem:**
